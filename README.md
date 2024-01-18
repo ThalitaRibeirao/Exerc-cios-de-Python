@@ -1,13 +1,13 @@
-# Descrição
-<p>O TEC´s é um grupo de extensão da Universidade de São Paulo (USP) focado na <b>programação social</b>, ou seja, tem como objetivo melhorar as condições da população por meio da tecnologia.</p> 
-<p>Participei do projeto "Introdução a Python para Garotas", que busca aguçar o conhecimento em programação do público feminino. Durante 1 mês, houveram exercícios semanais, listados abaixo.</p>
+## Description
+<p>TEC's is an extension group at the University of São Paulo (USP) focused on <b>social programming</b>, aiming to improve the conditions of the population through technology.</p>
+<p>I participated in the "Introduction to Python for Girls" project, which seeks to enhance the programming knowledge of the female audience. For one month, there were weekly exercises, listed below.</p>
 
-## Tecnologias utilizadas
-- Python 
+## Technologies used
+- Python
 
-## Como rodar
-<p>Os códigos foram desenvolvidos no Google Colabolary, uma plataforma para códigos python. Ao topo de cada código, clique para redirecionar a plataforma. </p>
-<img src = "https://github.com/ThalitaRibeirao/Assets/blob/main/Python%20para%20Garotas/1.png">
-<p>Agora, basta selecionar a linha que tem interesse e clicar no botão de execução.</p>
- <img src = "https://github.com/ThalitaRibeirao/Assets/blob/main/Python%20para%20Garotas/Imagem%202.png">
-<p> <i> Obs.: O código pode demorar um pouco ao ser executado a primeira vez, pois o servidor não está carregado inicialmente. </i> </p>
+## How to run
+<p>The codes were developed on Google Colab, a platform for Python codes. At the top of each code, click to redirect to the platform.</p>
+<img src="https://github.com/ThalitaRibeirao/Assets/blob/main/Python%20para%20Garotas/1.png">
+<p>Now, simply select the line of interest and click the run button.</p>
+<img src="https://github.com/ThalitaRibeirao/Assets/blob/main/Python%20para%20Garotas/Imagem%202.png">
+<p> <i> Note: The code may take a while to run for the first time as the server is not loaded initially. </i> </p>
